@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clique Aqui!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Clique Aqui!</title>
+
 </head>
 <body>
  <h1> <p style = color:black;> Clique no botão </h1>
